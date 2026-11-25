@@ -70,7 +70,7 @@ PORT=8093 npm start
 uvicorn app.main:app --port 8084
 uvicorn app.main:app --port 8094
 ```
-
+## Dashboard Eureka
 Sous Windows PowerShell, utiliser `$env:PORT=8093; npm start`.
 
 ## Vérification
