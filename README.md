@@ -7,8 +7,7 @@ Projet réalisé dans le cadre du module AWD (ESPRIT).
 | Nom et prénom | Microservice |
 |---|---|
 | Farah Hannachi | à compléter |
-| Nom Prénom | à compléter |
-| Nom Prénom | à compléter |
+
 
 ## Architecture
 
